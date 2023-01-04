@@ -5,7 +5,7 @@
 </div>
 <br><br>
 
-<p> 👋&nbsp; I’m a Junior Front-End Developer located in South Korea.<br>
+<p>👋&nbsp; I’m a Junior Front-End Developer located in South Korea.<br>
 I learn a serious passion for UI effects,animations and creating <br>
 intuitive, dynamic user experiences. <br><br>
 🚀I'm a well organized person, problem solver, independent employee<br>
@@ -15,7 +15,7 @@ Actually, I have been living in South Korea for 5 years so I almost native in Ko
 
   🏄And I'm interested in the entire creative frontend spectrum and<br>
 working on ambitious projects with positive people.<br><br>
-</p><br><br>
+</p><br><br><br>
 
 
 
@@ -41,7 +41,6 @@ working on ambitious projects with positive people.<br><br>
 	<br>
   <br>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
 <br><br><br>
