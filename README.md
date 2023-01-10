@@ -5,6 +5,15 @@
 </div>
 <br><br>
 
+
+
+<p align="center"> 
+  Visitor count<br><br>
+  <img src="https://profile-counter.glitch.me/{anaskhonprime}/count.svg" />
+</p>
+
+<br><br>
+
 <p>👋&nbsp; I’m a Junior Front-End Developer located in South Korea.<br>
 I learn a serious passion for UI effects,animations and creating <br>
 intuitive, dynamic user experiences. <br><br>
