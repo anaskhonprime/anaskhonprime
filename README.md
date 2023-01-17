@@ -24,7 +24,11 @@ Actually, I have been living in South Korea for 5 years so I almost native in Ko
 
   🏄And I'm interested in the entire creative frontend spectrum and<br>
 working on ambitious projects with positive people.<br><br>
-</p><br><br><br>
+</p>
+
+<a href="personal-portfolio-2102f.web.app/">🚀 Personal Portfolio </a>
+
+<br><br><br>
 
 
 
