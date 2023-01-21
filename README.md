@@ -70,3 +70,10 @@ working on ambitious projects with positive people.<br><br>
 </div>
 <br>
 <br>
+
+ <div align=center>
+	
+   [![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaskhonprime)](https://github.com/anaskhonprime/github-readme-stats)
+</div>
+
+
