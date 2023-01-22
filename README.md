@@ -1,46 +1,37 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anaskhonprime&label=Profile%20views&color=0e75b6&style=flat" alt="anaskhonprime" /> </p>
 
-
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20&fontSize=90" />	
-</div>
-<br><br>
-
-
-
-<p align="center"> 
-  Visitor count<br><br>
-  <img src="https://profile-counter.glitch.me/{anaskhonprime}/count.svg" />
-</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anaskhonprime" alt="anaskhonprime" /></a> </p>
 
 <br><br>
 
-<p>👋&nbsp; I’m a Junior Front-End Developer located in South Korea.<br>
-I learn a serious passion for UI effects,animations and creating <br>
-intuitive, dynamic user experiences. <br><br>
-🚀I'm a well organized person, problem solver, independent employee<br>
-with high attention to detail. Fan of Football and Boxing, outdoor<br>
-activities with my friends, TV series and English literature.<br>
-Actually, I have been living in South Korea for 5 years so I almost native in Korean.<br>
 
-  🏄And I'm interested in the entire creative frontend spectrum and<br>
+<h1 align="center"> 👋 Hello, I’m a Anaskhon(아론)</h1>
+<h3 align="center">A Junior Front-End Developer </h3>
+<br><br>
+
+<p>👋&nbsp; I’m a Anaskhon ( 아론 )  Junior Front-End Developer located in South Korea.<br>
+I’m currently learning VueJs, and ReactJs with Tailwind CSS <br>
+
+
+🚀 I'm a well organized person, problem solver, independent employee<br>
+with high attention to detail. Fan of Football and Winter Sports, outdoor <br>
+activities with my friends, TV series and <br>
+I have been living in South Korea for 5 years so I almost native in Korean.<br>
+
+🏄And I'm interested in the entire creative frontend spectrum and<br>
 working on ambitious projects with positive people.<br><br>
 </p>
 
 <a href="https://personal-portfolio-2102f.web.app/">🚀 Personal Portfolio </a>
 
-<br><br><br>
+<br>
 
-
-
-
-
-
-<div align=center>
+<div align=left>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>Platforms & Languages</p>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/VueJS-439A97?style=flat&logo=Vue.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=white" />
@@ -56,11 +47,12 @@ working on ambitious projects with positive people.<br><br>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
-<br><br><br>
-<div align=center>
+<br><br>
+
+<div align=left>
 	<p>🛠 Tools 🛠</p>
 </div>
-<div align=center>
+<div align=left>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
@@ -71,9 +63,5 @@ working on ambitious projects with positive people.<br><br>
 <br>
 <br>
 
- <div align=center>
-	
-   [![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaskhonprime)](https://github.com/anaskhonprime/github-readme-stats)
-</div>
 
 
