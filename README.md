@@ -4,12 +4,11 @@
 
 <br><br>
 
-
-<h1 align="center"> 👋 Hello, I’m a Anaskhon(아론)</h1>
+<h1 align="center"> 👋 Hello, I’m a Anaskhon (아론) </h1>
 <h3 align="center">A Junior Front-End Developer </h3>
 <br><br>
 
-<p>👋&nbsp; I’m a Anaskhon ( 아론 )  Junior Front-End Developer located in South Korea.<br>
+<p>👋&nbsp; I’m a Anaskhon ( 아론 )  Junior Front-End Developer located in South Korea<br>
 I’m currently learning VueJs, and ReactJs with Tailwind CSS <br>
 
 
